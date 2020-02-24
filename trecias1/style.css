@@ -1,0 +1,75 @@
+.wrap
+{
+    margin:auto;
+    background-color: black;
+    width: 100%;
+    display: inline-block;
+}
+h1.pavadinimas
+{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:70;
+    text-align: left;
+   
+}
+.wrap2
+{
+    display: inline-block;
+
+}
+h2.punktai
+{
+    color: white;
+    font-size: 40;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+
+}
+.wrap3
+{
+    display: block;
+    float: right;
+    margin: 20px;
+    text-align: right;
+
+}
+a:link {
+    text-decoration: none;
+  }
+.wrap4
+{
+    margin:auto;
+    background-color:#527a7a;
+    width: 100%;
+   /* display: inline-block;*/
+    
+}
+.kortele
+{
+    
+    margin:auto;
+    background-color:#527a7a;
+    width: 50%;
+    height: 100%;
+    display: block;
+    float: right;
+    
+}
+h2.pavadinimas
+{
+    color: white;
+    font-size: 40;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.tekstas
+{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20;
+    text-align:right;
+   
+}
+
+  
